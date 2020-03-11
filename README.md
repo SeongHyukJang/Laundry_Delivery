@@ -10,8 +10,13 @@ Model은 각종 배달 어플리케이션들의 서비스 방식을 참고 하�
 <pre><code>$ python --version
 Python 3.7.4
 </code></pre>
-<pre><code>$ python -m django --version
-3.0
+<pre><code>$ pip show django
+Name: Django
+Version: 3.0.1
+</code></pre>
+<pre><code>$ pip show virtualenv
+Name: virtualenv
+Version: 16.7.9
 </code></pre>
 ***
 ### 2-2. Django REST Framework
